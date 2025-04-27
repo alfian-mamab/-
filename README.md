@@ -12,9 +12,9 @@ I recently worked with the 𝐒𝐮𝐩𝐞𝐫𝐦𝐚𝐫𝐤𝐞𝐭 𝐒𝐚
 Unlike the others, 𝐑 𝐒𝐡𝐢𝐧𝐲 𝐫𝐞𝐪𝐮𝐢𝐫𝐞𝐬 𝐜𝐨𝐝𝐢𝐧𝐠—so it’s not as beginner-friendly. But once you get comfortable with it, 𝐭𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐯𝐢𝐫𝐭𝐮𝐚𝐥𝐥𝐲 𝐧𝐨 𝐥𝐢𝐦𝐢𝐭𝐬 𝐭𝐨 𝐰𝐡𝐚𝐭 𝐲𝐨𝐮 𝐜𝐚𝐧 𝐛𝐮𝐢𝐥𝐝.
 
 ### Chech out the dashboard:
- 🔹 [𝐓𝐚𝐛𝐥𝐞𝐚𝐮](https://lnkd.in/eeRiryZz)
- 🔹 [𝐏𝐨𝐰𝐞𝐫 𝐁𝐈](https://lnkd.in/eEyjREgt)
- 🔹 [𝐋𝐨𝐨𝐤𝐞𝐫 𝐒𝐭𝐮𝐝𝐢𝐨](https://lnkd.in/eccdYMfC)
- 🔹 [𝐑 𝐒𝐡𝐢𝐧𝐲](https://lnkd.in/e7z3kFw4)
+ 🔹 [𝐓𝐚𝐛𝐥𝐞𝐚𝐮](https://public.tableau.com/app/profile/alfian.afan/viz/supermarket_17401276842890/Dashboard1?publish=yes)
+ 🔹 [𝐏𝐨𝐰𝐞𝐫 𝐁𝐈](https://app.powerbi.com/view?r=eyJrIjoiYjFkYTk5NDAtY2M5NS00YzljLTgyNzMtZWQxNWM1ZWM2MzRmIiwidCI6IjRhNTM3OGY5LTI5ZjQtNGQzZS1iZTg5LTY2OWQwM2FkYTlkOCIsImMiOjh9&embedImagePlaceholder=true)
+ 🔹 [𝐋𝐨𝐨𝐤𝐞𝐫 𝐒𝐭𝐮𝐝𝐢𝐨](https://lookerstudio.google.com/u/1/reporting/669448b1-f7ff-4605-840e-f20c63090959/page/JbY5E/edit)
+ 🔹 [𝐑 𝐒𝐡𝐢𝐧𝐲](https://d-34371478.shinyapps.io/Supermarket_1/)
 
 hashtag#DataVisualization hashtag#DashboardDesign hashtag#Tableau hashtag#PowerBI hashtag#LookerStudio hashtag#RShiny hashtag#DataAnalytics
