@@ -3,7 +3,7 @@
 ---
 ![Image](https://github.com/user-attachments/assets/f25a355e-15d9-4b1b-a008-632d7679c292)
 ---
-I recently worked with the 𝐒𝐮𝐩𝐞𝐫𝐦𝐚𝐫𝐤𝐞𝐭 𝐒𝐚𝐥𝐞𝐬 𝐝𝐚𝐭𝐚𝐬𝐞𝐭 from [Kaggle](https://lnkd.in/e3d5BqHg) and built dashboards using 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈, 𝐋𝐨𝐨𝐤𝐞𝐫 𝐒𝐭𝐮𝐝𝐢𝐨, 𝐚𝐧𝐝 𝐑 𝐒𝐡𝐢𝐧𝐲. Each tool has its own strengths, and I found that choosing the right one really depends on your needs, workflow, and technical skills.
+I recently worked with the 𝐒𝐮𝐩𝐞𝐫𝐦𝐚𝐫𝐤𝐞𝐭 𝐒𝐚𝐥𝐞𝐬 𝐝𝐚𝐭𝐚𝐬𝐞𝐭 from [Kaggle](https://www.kaggle.com/datasets/faresashraf1001/supermarket-sales) and built dashboards using 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈, 𝐋𝐨𝐨𝐤𝐞𝐫 𝐒𝐭𝐮𝐝𝐢𝐨, 𝐚𝐧𝐝 𝐑 𝐒𝐡𝐢𝐧𝐲. Each tool has its own strengths, and I found that choosing the right one really depends on your needs, workflow, and technical skills.
 ### 𝐇𝐞𝐫𝐞’𝐬 𝐰𝐡𝐚𝐭 𝐬𝐭𝐨𝐨𝐝 𝐨𝐮𝐭 𝐭𝐨 𝐦𝐞:
 💡 𝐃𝐫𝐚𝐠-𝐚𝐧𝐝-𝐝𝐫𝐨𝐩 simplicity in Tableau, Power BI, and Looker Studio makes building dashboards 𝐟𝐚𝐬𝐭 𝐚𝐧𝐝 𝐢𝐧𝐭𝐮𝐢𝐭𝐢𝐯𝐞, but each tool brings something different to the table:
  - ✅ 𝐓𝐚𝐛𝐥𝐞𝐚𝐮: Offers a cleaner and more modern UI, with straightforward menus that enhance the user experience. It also has great storytelling features that make dashboards more engaging.
