@@ -1,5 +1,5 @@
 ---
-📊 𝐒𝐮𝐩𝐞𝐫𝐦𝐚𝐫𝐤𝐞𝐭 𝐒𝐚𝐥𝐞𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝: 𝐂𝐨𝐦𝐩𝐚𝐫𝐢𝐧𝐠 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈, 𝐋𝐨𝐨𝐤𝐞𝐫 𝐒𝐭𝐮𝐝𝐢𝐨 &amp; 𝐑 𝐒𝐡𝐢𝐧𝐲!
+# 📊 Supermarket Sales Dashboard: Comparing Tableau, Power BI, Looker Studio, & R Shiny!
 ---
 I recently worked with the 𝐒𝐮𝐩𝐞𝐫𝐦𝐚𝐫𝐤𝐞𝐭 𝐒𝐚𝐥𝐞𝐬 𝐝𝐚𝐭𝐚𝐬𝐞𝐭 from [Kaggle](https://lnkd.in/e3d5BqHg) and built dashboards using 𝐓𝐚𝐛𝐥𝐞𝐚𝐮, 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈, 𝐋𝐨𝐨𝐤𝐞𝐫 𝐒𝐭𝐮𝐝𝐢𝐨, 𝐚𝐧𝐝 𝐑 𝐒𝐡𝐢𝐧𝐲. Each tool has its own strengths, and I found that choosing the right one really depends on your needs, workflow, and technical skills.
 𝐇𝐞𝐫𝐞’𝐬 𝐰𝐡𝐚𝐭 𝐬𝐭𝐨𝐨𝐝 𝐨𝐮𝐭 𝐭𝐨 𝐦𝐞:
